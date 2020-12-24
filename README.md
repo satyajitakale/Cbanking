@@ -20,4 +20,4 @@ More...
 Anyone can modify our code for updates and modifications
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+open
