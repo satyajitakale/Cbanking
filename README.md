@@ -9,7 +9,7 @@ Developed Banking system using C and File Database.
 ```cp
 add account
 manage account
-credit or Debit Cash
+Unlimited Credit Or Debit Cash
 Password Facility
 Life Time Account Access
 Exception Handling
