@@ -1,4 +1,4 @@
-# Banking system using C
+# Banking System Software using C
 
 Developed Banking system using C and File Database.
 
