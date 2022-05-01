@@ -1,6 +1,6 @@
 # Banking system using C
 
-Developed banking system using C and File database.
+Developed Banking system using C and File Database.
 
  
 ![Test Image 4](https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg)
@@ -9,13 +9,17 @@ Developed banking system using C and File database.
 ```cp
 add account
 manage account
-credit cash
+credit or Debit Cash
+Password Facility
+Life Time Account Access
+Exception Handling
+Encrypted Database
 More...
  
 ```
 
 ## Contributer
-   - Satyajit kale
+   - Satyajit Kale
 
 Anyone can modify our code for updates and modifications
 
