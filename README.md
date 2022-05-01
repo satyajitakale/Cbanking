@@ -7,8 +7,8 @@ Developed Banking system using C and File Database.
 ## Functionalities
 
 ```cp
-add account
-manage account
+Add Account
+Manage Account
 Unlimited Credit Or Debit Cash
 Password Facility
 Life Time Account Access
