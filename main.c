@@ -546,8 +546,14 @@ int passInput(char *Pass)
 	ch1=getch();
 	for(i=0;ch1!=13 && i < 19;i++)
 	{
-		Pass[i]=ch1;
-		printf("*");
+		if(ch1==8){
+			printf("\b \b");
+			i-=2;
+		}
+		else{
+			Pass[i]=ch1;
+			printf("*");
+		}
 		ch1=getch();
 	}
 	Pass[i]='\0';
